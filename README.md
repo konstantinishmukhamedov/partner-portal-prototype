@@ -1,5 +1,5 @@
 # Partner Portal — prototype
 
-Собранный HTML-прототип Lightspeed Golf Developer Portal (My Integrations, Webhooks). Исходники в приватном репозитории.
+Built HTML prototype of the Lightspeed Golf Developer Portal (My Integrations, Webhooks). Source code lives in a private repository.
 
-Открыть: https://konstantinishmukhamedov.github.io/partner-portal-prototype/
+Open: https://konstantinishmukhamedov.github.io/partner-portal-prototype/
